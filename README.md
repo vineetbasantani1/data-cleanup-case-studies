@@ -1,4 +1,8 @@
+![Data Cleanup Case Studies](assets/banner.png)
+
 # Data Cleanup Portfolio — Vineet Basantani
+
+![projects: 3](https://img.shields.io/badge/projects-3-B3141B?style=flat-square&labelColor=1B1F23) ![data: illustrative samples](https://img.shields.io/badge/data-illustrative_samples-B3141B?style=flat-square&labelColor=1B1F23)
 
 Selected examples of data cleanup, standardization, and validation work. Each project folder includes a full write-up, before/after sample data, and the specific cleanup logic applied.
 

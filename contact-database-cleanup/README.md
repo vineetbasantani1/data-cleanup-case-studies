@@ -1,4 +1,8 @@
+![Contact Database Cleanup](../assets/banner-contact-database-cleanup.png)
+
 # Data Cleanup Project: Retail Partner Contact Database Cleanup
+
+![data: anonymized sample](https://img.shields.io/badge/data-anonymized_sample-B3141B?style=flat-square&labelColor=1B1F23)
 
 ## Overview
 Cleaned and standardized a 9,400-row retail partner contact database containing duplicate entries, inconsistent formatting, and invalid contact details. Reduced data errors by 93% and delivered a validated file ready for direct import into the client's CRM.

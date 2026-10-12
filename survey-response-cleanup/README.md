@@ -1,4 +1,8 @@
+![Survey Response Cleanup](../assets/banner-survey-response-cleanup.png)
+
 # Data Cleanup Project: Customer Survey Response Cleanup
+
+![data: illustrative sample](https://img.shields.io/badge/data-illustrative_sample-B3141B?style=flat-square&labelColor=1B1F23)
 
 ## Overview
 Cleaned and consolidated 3,800 customer satisfaction survey responses collected across three different platforms (web form, email survey tool, and in-store tablet). Standardized inconsistent answer formats, resolved encoding errors, removed invalid/bot-like responses, and merged the exports into a single analysis-ready dataset.

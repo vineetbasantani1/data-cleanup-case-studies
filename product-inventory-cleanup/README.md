@@ -1,4 +1,8 @@
+![Product Inventory Cleanup](../assets/banner-product-inventory-cleanup.png)
+
 # Data Cleanup Project: E-Commerce Product Inventory Cleanup
+
+![data: illustrative sample](https://img.shields.io/badge/data-illustrative_sample-B3141B?style=flat-square&labelColor=1B1F23)
 
 ## Overview
 Cleaned and standardized a 6,200-SKU product inventory spreadsheet with inconsistent categorization, duplicate listings, and pricing errors. Consolidated the catalog into a single accurate source of truth, resolving over 500 duplicate SKUs and correcting pricing inconsistencies across the store.
